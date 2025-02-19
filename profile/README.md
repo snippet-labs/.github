@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-# <div align="center">&lt;WELCOME TO THE SNIPPETLABS/&gt;</div>
+# <div align="center">&lt;WELCOME TO SNIPPETLABS/&gt;</div>
 
 ## ABOUT US
 
@@ -10,7 +10,7 @@ DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.
 
 ## OUR TECHNOLOGY STACK
 
-<table align="center" border="1">
+<table align="center">
   <tr>
     <td align="center"><img src="../icons/javascript.svg" width="40px"><br></td>
     <td align="center"><img src="../icons/typescript.svg" width="40px"><br></td>
@@ -31,7 +31,8 @@ DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.
 
 ## PROJECTS WE ARE WORKING ON
 
-HERE ARE SOME OF THE SIGNIFICANT PROJECTS, FEEL FREE TO HOVER AROUND AND TAKE A LOOK AT THE CODE BASE, <br>IF MORE <b><i><u>"LET'S COLLABORATE"</u></i><b>
+First project launching soon ....
+<!-- HERE ARE SOME OF THE SIGNIFICANT PROJECTS, FEEL FREE TO HOVER AROUND AND TAKE A LOOK AT THE CODE BASE, <br>IF MORE <b><i><u>"LET'S COLLABORATE"</u></i><b> -->
 
 <!-- PROJECT ONE -->
 
@@ -39,7 +40,7 @@ HERE ARE SOME OF THE SIGNIFICANT PROJECTS, FEEL FREE TO HOVER AROUND AND TAKE A 
 
 ![]()
 
-> REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
+<!-- > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE ! -->
 
 ## <div  align="center"> &lt;LET'S WORK TOGETHER/&gt; </div>
 
@@ -64,7 +65,7 @@ WE ARE ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 </div>
 <br>
 
-## <div align="center"> &lt;THANK YOU SO MUCH/&gt; </div>
+## <div align="center"> &lt;CHEERS/&gt; </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
