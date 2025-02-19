@@ -6,7 +6,16 @@
 
 ## ABOUT US
 
-DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.
+At snippetlabs, we are passionate about building high-quality software solutions with a strong emphasis on best practices and innovation. Our team of expert engineers and developers is committed to delivering clean, efficient, and maintainable code while fostering a positive and collaborative work environment. With a focus on modern technologies and cutting-edge methodologies, we strive to create scalable and robust applications that drive success.  
+
+#### WHY CHOOSE US ?  
+- **QUALITY CODE** – We adhere to industry-leading coding standards to ensure reliability and maintainability.  
+- **BEST PRACTICES** – Our development approach follows proven methodologies, including Agile, TDD, and CI/CD.  
+- **INNOVATION & EFFICIENCY** – We leverage the latest technologies to build scalable and high-performance solutions.  
+- **COLLABORATIVE WORK CULTURES** – A strong emphasis on teamwork, knowledge sharing, and continuous learning.  
+- **SOLUTION CENTRIC APPROACH** – We prioritize our clients' needs and tailor solutions to their unique business challenges.  
+
+At snippetlabs, we believe that great software starts with a great team. Join us as we push the boundaries of technology and create solutions that make an impact!
 
 ## OUR TECHNOLOGY STACK
 
@@ -42,6 +51,8 @@ First project launching soon ....
 
 <!-- > REST OF THE REPOSITORIES ARE YOURS TO EXPLORE ! -->
 
+<!-- ## <div align="center"> &lt;MEET OUR CORE MEMBERS/&gt;</div> -->
+
 ## <div  align="center"> &lt;LET'S WORK TOGETHER/&gt; </div>
 
 WE ARE ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
@@ -50,17 +61,10 @@ WE ARE ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 <br>
 <div align="center">
 
-  <a href="mailto:"> 
+  <a href="mailto:snippetlabsbusiness@gmail.com"> 
     <img width="40px" src="../icons/GMAIL.png"> 
   </a>
    &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in"> 
-    <img width="40px" src="../icons/LINKEDIN.png"> 
-  </a> 
-  &nbsp; &nbsp;
-  <a  href=""> 
-    <img width="40px" src="../icons/FIVERR.png"> 
-  </a>
 
 </div>
 <br>
