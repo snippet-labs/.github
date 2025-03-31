@@ -44,6 +44,13 @@ At snippetlabs, we believe that great software starts with a great team. Join us
   </tr>
 </table>
 
+## <div> TOGETHER WE STAND </div>
+<table align="center" border="1">
+  <tr>
+    <td> <img src="../core/__suvajit.JPG" width="60px"></td>
+    <td> <img src="../core/__hemangshu.jpeg" width="60px"> </td>
+  </tr>
+</table>
 
 ## <div> LET'S WORK TOGETHER</div>
 
