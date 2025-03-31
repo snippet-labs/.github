@@ -44,15 +44,6 @@ At snippetlabs, we believe that great software starts with a great team. Join us
   </tr>
 </table>
 
-## PROJECTS WE ARE WORKING ON
-
-First project launching soon ....
-
-<!-- PROJECT ONE -->
-
-### []()
-
-![]()
 
 ## <div> LET'S WORK TOGETHER</div>
 
