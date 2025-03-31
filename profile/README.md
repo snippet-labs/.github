@@ -2,11 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-# <div align="center">&lt;WELCOME TO THE SNIPPETLABS/&gt;</div>
+<div align="center"> <img src="../logo/_logo.png" style="width: 150px; height: 150px; border-radius: 50%;"> </div>
+
+# <div align="center">&lt;WELCOME TO SNIPPETLABS/&gt;</div>
 
 ## ABOUT US
 
-DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.
+<div align="justify">
+At snippetlabs, we are passionate about building high-quality software solutions with a strong emphasis on best practices and innovation. Our team of expert engineers and developers is committed to delivering clean, efficient, and maintainable code while fostering a positive and collaborative work environment. With a focus on modern technologies and cutting-edge methodologies, we strive to create scalable and robust applications that drive success.
+
+#### WHY CHOOSE US ?
+
+- `QUALITY CODE` – We adhere to industry-leading coding standards to ensure reliability and maintainability.
+- `BEST PRACTICES` – Our development approach follows proven methodologies, including Agile, TDD, and CI/CD.
+- `INNOVATION & EFFICIENCY` – We leverage the latest technologies to build scalable and high-performance solutions.
+- `COLLABORATIVE WORK CULTURES` – A strong emphasis on teamwork, knowledge sharing, and continuous learning.
+- `SOLUTION CENTRIC APPROACH` – We prioritize our clients' needs and tailor solutions to their unique business challenges.
+
+At snippetlabs, we believe that great software starts with a great team. Join us as we push the boundaries of technology and create solutions that make an impact!
+
+</div>
 
 ## OUR TECHNOLOGY STACK
 
@@ -17,7 +32,7 @@ DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.
     <td align="center"><img src="../icons/react.svg" width="40px"><br></td>
     <td align="center"><img src="../icons/nodejs.svg" width="40px"><br></td>
     <td align="center"><img src="../icons/expressjs.svg" width="40px"><br></td>
-    <td align="center"><img src="../icons/springboot.svg" width="40px"><br></td>
+    <td align="center"><img src="../icons/icons8-golang-144.png" width="40px"><br></td> 
     <td align="center"><img src="../icons/tailwind.svg" width="40px"><br></td>
     <td align="center"><img src="../icons/PYTHON.svg" width="40px"><br></td>
     <td align="center"><img src="../icons/fastapi.svg" width="40px"><br></td>
@@ -31,7 +46,7 @@ DEDICATED PROFESSIONAL WITH A PASSION FOR INNOVATION AND PROBLEM-SOLVING.
 
 ## PROJECTS WE ARE WORKING ON
 
-HERE ARE SOME OF THE SIGNIFICANT PROJECTS, FEEL FREE TO HOVER AROUND AND TAKE A LOOK AT THE CODE BASE, <br>IF MORE <b><i><u>"LET'S COLLABORATE"</u></i><b>
+First project launching soon ....
 
 <!-- PROJECT ONE -->
 
@@ -39,32 +54,21 @@ HERE ARE SOME OF THE SIGNIFICANT PROJECTS, FEEL FREE TO HOVER AROUND AND TAKE A 
 
 ![]()
 
-> REST OF THE REPOSITORIES ARE YOURS TO EXPLORE !
-
-## <div  align="center"> &lt;LET'S WORK TOGETHER/&gt; </div>
+## <div> LET'S WORK TOGETHER</div>
 
 WE ARE ALWAYS UP TO SOMETHING INTERESTING AND EXCITING,
 <u>JUST CLICK THE ICONS & LET'S COLLABORATE</u>
 
 <br>
-<div align="center">
-
-  <a href="mailto:"> 
+<table align="center" border="1">
+  <tr>
+    <td>   
+    <a href="mailto:snippetlabsbusiness@gmail.com"> 
     <img width="40px" src="../icons/GMAIL.png"> 
+    </td>
   </a>
-   &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in"> 
-    <img width="40px" src="../icons/LINKEDIN.png"> 
-  </a> 
-  &nbsp; &nbsp;
-  <a  href=""> 
-    <img width="40px" src="../icons/FIVERR.png"> 
-  </a>
-
-</div>
-<br>
-
-## <div align="center"> &lt;THANK YOU SO MUCH/&gt; </div>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
