@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<div align="center"> <img src="../logo/_logo.png" style="width: 100px; height: 100px; border: 2px solid white;"> </div>
-
 # <div align="center">&lt;WELCOME TO SNIPPETLABS/&gt;</div>
 
 ## ABOUT US
